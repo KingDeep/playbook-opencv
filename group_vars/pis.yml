@@ -1,4 +1,4 @@
 ---
-ansible_ssh_user: pi
-ansible_ssh_pass: pi
+ansible_ssh_user: pi 192.168.137.52
+ansible_ssh_pass: pi myos1234
 ansible_sudo_pass: pi
